@@ -1,0 +1,46 @@
+Ebook
+Título: A Explosão do CSS: Dominando a Estética Web
+Prompts:
+1.Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de the big bang theory no título, me liste 5 variações de títulos em português
+2.Faça um texto para ebook , com foco em CSS, sobre as principais propriedades no CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+
+Principais Propriedades do CSS: Um Guia Simples
+CSS (Cascading Style Sheets) é uma linguagem essencial para definir a apresentação de páginas web. Neste texto, vamos explorar algumas das principais propriedades do CSS com exemplos práticos.
+
+1.Capitulo 1: Definindo cores
+'color' e 'background-color'
+Essas propriedades são usadas para definir a cor do texto e o fundo de um elemento, respectivamente.
+exemplo
+
+2.Capítulo 2: Estilizando fontes
+'font-size' e 'font-family'
+Essas propriedades controlam o tamanho e o tipo da fonte do texto.
+exemplo
+
+3.Capítulo 3:Espaçamento Externo e Interno
+'margin' e 'padding'
+margin controla o espaço externo ao redor de um elemento, enquanto padding controla o espaço interno entre o conteúdo e a borda do elemento.
+exemplo
+4.Capítulo 4:Definindo Bordas
+'border'
+A propriedade border é usada para definir a borda de um elemento.
+exemplo
+
+5.Capítulo 5:Definindo Largura e Altura
+'width' e 'height'
+Essas propriedades controlam a largura e a altura de um elemento.
+exemplo
+
+6.Capítulo 6:Controlando a Exibição
+'display'
+A propriedade display define como um elemento será exibido na página.
+exemplo
+
+7.Capítulo 7: Criando Layouts Flexíveis
+'display:flex'
+A propriedade display: flex; é usada para criar layouts flexíveis e responsivos.
+exemplo
+
+Conclusão
+Estas são algumas das propriedades mais importantes do CSS que você usará com frequência. Entender como e quando utilizá-las é crucial para criar páginas web visualmente atraentes e funcionais. Experimente essas propriedades nos seus projetos e veja como elas transformam o design das suas páginas!
+
